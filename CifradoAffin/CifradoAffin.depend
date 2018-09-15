@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1537027692 source:d:\programas hechos por mi\cifradoaffin\main.cpp
+	<iostream>
+	"Affin.h"
+	<NTL/ZZ.h>
+
+1537024247 source:d:\programas hechos por mi\cifradoaffin\operaciones.cpp
+	"operaciones.h"
+
+1537025717 d:\programas hechos por mi\cifradoaffin\operaciones.h
+	<iostream>
+	<string>
+	<ctime>
+	<math.h>
+	<stdio.h>
+
+1537027791 source:d:\programas hechos por mi\cifradoaffin\src\affin.cpp
+	"Affin.h"
+	<../operaciones.h>
+
+1537027475 d:\programas hechos por mi\cifradoaffin\include\affin.h
+	<string>
+	<NTL/ZZ.h>
+
